@@ -126,11 +126,12 @@ Email Me 👉 ✉️ **satyamkit6393@gmail.com** For Collaboration/Project or An
   
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SatyamMauryakit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SatyamMauryakit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://github.com/SatyamMauryakit">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatyamMauryakit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatyamMauryakit&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
