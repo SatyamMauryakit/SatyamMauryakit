@@ -5,7 +5,6 @@
 
 
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SatyamMauryakit&label=Profile%20views&color=0e75b6&style=flat" alt="pratikwayal01" /> </p>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900" height="300" alt="Header GIF"/>
 
 ---
